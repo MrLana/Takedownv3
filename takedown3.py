@@ -1,4 +1,4 @@
-gitaasyvarly requests
+gitaasyvirly requests
 import threading
 import time
 import random
